@@ -10,4 +10,4 @@
                 If a guide is too blurry please increase the zoom or download the pdf.<br>
                 Thank you.
 </p>
-<img src="https://photos.google.com/share/AF1QipPpvTWdGPkhbHdz3oSf1odFzblq40Imjw7Ns_B33_DTiNcXk5Mtcnq4mQEQH-cJkQ/photo/AF1QipM771BdY141CcYROZLeuf_LDuWHoTshIXDFI6Dx?key=SDl3UUVweXdBM2JacVlrS3ExZGQ4RVVTR2l2RjVR">
+<img src="https://lh3.googleusercontent.com/aqAEaU5qct3YZN2zoTARXSsN5zwytOIJUV72N9CLLDBd6398JPKHSXoFxU7X7OHtP7sjtt2Kd_r37RIuU_bqmSCaaF7aoTVocIuewZhXX4SNYxxCRpDui9ylYnSD4dG4g86j9gjHccRcj5x8VnhCEBXmfBCQ9NBJ2s-1EhWX1PeyEbwd0EZCqCJYf6YQMUBmqEwQAtjxNl7JipROlHelt0J1N_nXqvxg5NXXBjhYq7-WogP89YWTATI24sWasUKXmxnXf46xpc9ktOV49flUl81E9rTjCTOb4cR_QLfCvi_twE-ajN0F0Hmx1DNvTqoKVUqK7RzyuXrfx_TQT9ryddotA-NlSw9OjNkVlDVhOj2IKaczLY0z3vEo44XRXWalJKGGYTfSuAMS_RW_1QYOgMB_8XGVTTIZoLsjL4tsMKgLdrCrQZiYd5azN2-HZUqwxVkAJA7Sp1FRZXp16rYa4HNIYDQOuQMjwJRFSQRwZBkzhT6SSSky88J2fE-fODPGyT561ieh2YGNhhuK4uRHlvHtSQlkMC_Q4nCX9_MkXEg3EXcVG9XmaEcElR_euPb-GKtQBmCuzjqDycCS5caXPQakEI-q6arplhbLID6EZwigrQqzxmTdcSVkVbrQ5cZjgRxozfBjbXjreDNXOxR36MoBWWLtrfBHUszEHAC9wuR5xL05DZazupyU9w=w402-h313-no">
