@@ -8,6 +8,7 @@
                 It refers the Github Lection 15 video #144- Part 1, and Part 2<br>
                 <br>
 <ul>
+<li>28.09.2018<br>GitHub guide part 3 were added</li>
 <li>Terminal updated CheatSheet were added 26.09.2018</li>
 <li>GitHub full commands list were added 26.09.2018</li>
 </ul>
