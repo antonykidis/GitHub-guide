@@ -4,7 +4,7 @@
             By Andrei Negoie</p>
   </div>
   <p>
-  This guide was created as a complementary to the Complete Web Developer in 2018 course.<br>
+  This guide was created as a complementary to the Complete Web Developer in 2019 course.<br>
                 It refers the Github Lection 15 video #144- Part 1, and Part 2<br>
                 <br>
 <ul>
