@@ -1,6 +1,6 @@
 <div class="jumbotron">
           <h1 class="display-3">Git And GitHub Guide</h1>
-          <p class="lead">Complete Web Developer in 2018 <br>
+          <p class="lead">Complete Web Developer in 2019 <br>
             By Andrei Negoie</p>
   </div>
   <p>
