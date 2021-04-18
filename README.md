@@ -3,6 +3,9 @@
           <p class="lead">Complete Web Developer in 2019 <br>
             By Andrei Negoie</p>
   </div>
+
+<h2>if you need to setup your github via SSH
+<a href="https://github.com/antonykidis/Setup-ssh-for-github"> here is the guide</a></h2>
   <p>
   This guide was created as a complementary to the Complete Web Developer in 2019 course.<br>
                 It refers the Github Lection 15 video #144- Part 1, and Part 2<br>
